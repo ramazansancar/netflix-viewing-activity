@@ -6,7 +6,13 @@
   <p align="center">
     Download all of your Netflix account viewing activity in JSON or CSV.
     <br>
-    <a href="https://chrome.google.com/webstore/detail/netflix-viewing-activity/akcphadjbeckmkdoimhbfechbandeggg?utm_source=github"><strong>Install for Google Chrome &raquo;</strong></a>
+    <a href="https://chrome.google.com/webstore/detail/gfodcohcnkfafomlcocbaaomjfpgnekd?utm_source=github"><strong>Install for Google Chrome &raquo;</strong></a>
+    <br>
+    <a href="https://addons.mozilla.org/addon/netflix-viewing-activity/?utm_source=github"><strong>Install for Mozilla &raquo;</strong></a>
+    <br>
+    <a href="https://addons.thunderbird.net/addon/netflix-viewing-activity/?utm_source=github"><strong>Install for Thunderbird &raquo;</strong></a>
+    <br>
+    (Not published!) <a href="https://addons.opera.com/en/extensions/details/netflix-viewing-activity/?utm_source=github"><strong> Install for Opera &raquo;</strong></a>
     <br>
     <br>
     <a href="https://github.com/ramazansancar/netflix-viewing-activity/archive/master.zip">Download Source</a>
